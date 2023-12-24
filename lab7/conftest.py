@@ -4,7 +4,7 @@ import pytest
 import time
 
 server_ip = "192.168.1.153"
-password = "0420"
+password = ""
 username = "shiwusa1"
 
 
